@@ -19,8 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| ![shigure-no-wokka's GitHub stats](https://github-readme-stats.vercel.app/api?username=shigure-no-wokka&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://streak-stats.demolab.com/?user=shigure-no-wokka&theme=tokyonight)](https://git.io/streak-stats) |
-| --- | --- |
-
 - 努力成长中...
 
